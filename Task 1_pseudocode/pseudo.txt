@@ -1,0 +1,50 @@
+1)
+request user repeat entering numbers greater than zero
+    if user enters zero
+        stop loop
+then
+    display largest number entered by user
+
+2) 
+request user input first name
+then
+    store first name in variable labeled "first_name"
+then
+    input "first_name"
+print
+    text alongside "first_name" reading "Hello World"
+
+3) 
+read arbitray number of integers
+then
+    add each integrer to sum of numbers
+then
+    count number of integers added
+then
+    stop when user enters value (e.g. "calculate")
+
+then
+    store variable title arithmetic_mean
+then
+    calculate arithmetic_mean by dividing sum by count
+then
+    display arithmetic_mean
+
+4) 
+request grocery list from user
+then
+    stop when user marks value "complete"
+then
+    sort list of products missing from "complete" marking in alphabetical order
+then
+    display missing product list in alphabetical order
+
+5) 
+read value X and value Y
+    then value S = X +Y
+        calculate value of P which = X x Y
+    and
+        calculate value of A which = S / 2
+    then
+        print value of S, A and P separately 
+
