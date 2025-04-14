@@ -46,5 +46,5 @@ read value X and value Y
     and
         calculate value of A which = S / 2
     then
-        print value of S, A and P separately 
+        print value of S, A and P separately
 
