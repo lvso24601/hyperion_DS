@@ -31,13 +31,12 @@ THEN
     PINT "The arithmetic mean is", arithmetic_mean
 
 4) 
-request grocery list from user
-then
-    stop when user marks value "complete"
-then
-    sort list of products missing from "complete" marking in alphabetical order
-then
-    display missing product list in alphabetical order
+PROMPT grocery list from user
+THEN
+    END loop when user marks value "complete"
+THEN
+    SORT list of products missing from "complete" marking in alphabetical order
+PRINT missing product list in alphabetical order
 
 5) 
 PROMPT user to enter value X 
